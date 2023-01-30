@@ -1,0 +1,7 @@
+#container{
+  min-height: calc(100vh - 200px);
+  background-color: rgba(201, 211, 220, 0.938);
+  display: flex;
+  flex-direction: row;
+  flex-flow: wrap;
+}
