@@ -1,0 +1,18 @@
+.footer-content,.footer-bottom{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+
+
+}
+.footer-bottom{
+  background-color: rgb(84, 189, 201);
+}
+.footer-content{
+  background-color: rgb(152, 231, 227);
+  height: 150px;
+  font-weight: blod;
+  font-size: 20px;
+  color: white;
+}

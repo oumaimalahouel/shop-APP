@@ -1,1 +1,31 @@
 /* You can add global styles to this file, and also import other style files */
+.flex{
+  display: flex;
+}
+.flex-1{
+  flex: 1;
+}
+.flex-2{
+  flex: 2;
+}
+.aic{
+  align-items: center;
+
+}
+.jcc{
+  justify-content: center;
+}
+.column{
+  flex-direction: column;
+}
+.close{
+  height: 40px;
+  outline: none;
+  min-width: 150px;
+margin: 15px;
+  cursor: pointer;
+  color: #000000;
+}
+.close:hover{
+  background-color:#d7cfcf ;
+}
